@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.netlify.africano_barbershop.twa",
+    "sha256_cert_fingerprints": [
+      "E3:FF:F9:C7:7B:85:05:B1:59:34:59:51:57:BE:62:D8:A2:F3:83:54:8C:1C:49:71:09:C5:D4:A4:20:15:AB:EC"
+    ]
+  }
+}]
